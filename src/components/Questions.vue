@@ -10,7 +10,7 @@
 			:key="question.q"
 			v-show="questionsAnswered === qi" 
 		>
-			<div class="question">{{ question.q }}</div>
+			<div class="question">{{ question.q }}</div> 
 			<div class="answers">
 				<div
 					class="answer"
